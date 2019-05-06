@@ -39,14 +39,10 @@ color: rgb(255,255,255);
 text-align: center;
 margin: 0px;
 font-family: '8Bit';
-
 }
 
 .logo img {
-background-color: rgb(25,25,25);
-height: 100%;
-width: auto;
-margin: auto;
-display:block;
-
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
